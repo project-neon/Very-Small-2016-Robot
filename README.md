@@ -7,4 +7,6 @@ You will find the `schematics` pdf and board OUTPUTS on the Electronics folder o
 
 ## TODO
 
+Todo so much things
+
 ### Everything
